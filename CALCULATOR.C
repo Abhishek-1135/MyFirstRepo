@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     
     int a,b,choice;
@@ -36,9 +35,8 @@ int main() {
 
         default:
         printf("invalid choice");
-        
-        
     }
 
     return 0;
 }
+
